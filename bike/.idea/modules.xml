@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/javaee/学校/17050001zhangsan/17050001zhangsan.iml" filepath="E:/javaee/学校/17050001zhangsan/17050001zhangsan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bike.iml" filepath="$PROJECT_DIR$/bike.iml" />
+    </modules>
+  </component>
+</project>
