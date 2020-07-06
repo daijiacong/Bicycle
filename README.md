@@ -5,4 +5,19 @@
 ![注册界面](https://edu-00.oss-cn-shenzhen.aliyuncs.com/bike/1.png)
 ## 登录界面
 ![登录界面](https://edu-00.oss-cn-shenzhen.aliyuncs.com/bike/2.png)
+## 信息发布界面
+![信息发布界面](https://edu-00.oss-cn-shenzhen.aliyuncs.com/bike/3.png)
+## 动态界面
+![动态界面](https://edu-00.oss-cn-shenzhen.aliyuncs.com/bike/4.png)
+## 详情界面
+![详情界面](https://edu-00.oss-cn-shenzhen.aliyuncs.com/bike/5.png)
+## 我的界面
+![我的界面](https://edu-00.oss-cn-shenzhen.aliyuncs.com/bike/6.png)
+## 我的发布界面
+![我的发布界面](https://edu-00.oss-cn-shenzhen.aliyuncs.com/bike/7.png)
+## 我的订单界面
+![我的订单界面](https://edu-00.oss-cn-shenzhen.aliyuncs.com/bike/8.png)
+## 密码设置界面
+![密码设置界面](https://edu-00.oss-cn-shenzhen.aliyuncs.com/bike/9.png)
+
 
